@@ -145,7 +145,7 @@ textarea {
     font-weight: 500;
 }
 
-.botao-descartar {
+.discard-button {
     background-color: var(--itens-background);
     color: var(--primari-color);
     border: 1px solid var(--primari-color);
@@ -153,7 +153,7 @@ textarea {
     cursor: pointer;
 }
 
-.botao-descartar::after {
+.discard-button::after {
     content: "";
     background-image: url(./img/trash.svg);
     background-size: contain;
@@ -167,7 +167,7 @@ textarea {
     margin-left: 8px;
 }
 
-.botao-publicar {
+.publish-button {
     background-color: var(--primari-color);
     color: var(--secundary-color);
     border: none;
@@ -175,7 +175,7 @@ textarea {
     cursor: pointer;
 }
 
-.botao-publicar::after {
+.publish-button::after {
     content: "";
     background-image: url(./img/upload.svg);
     background-size: contain;

@@ -51,11 +51,11 @@
     <main>
         <div class="container-upload-imagem">
             <div class="container-imagem">
-                <img src="./img/imagem1.png" alt="Pré-visualização da imagem do projeto" class="main-imagem">
+                <img src="./img/imagem1.png" alt="Pré-visualização da imagem do projeto" class="main-image">
             </div>
             <button id="upload-btn">Carregar Imagem</button>
-            <input type="file" id="imagem-upload" accept="image/png, image/jpeg" style="display: none">
-            <div class="container-imagem-nome p">
+            <input type="file" id="image-upload" accept="image/png, image/jpeg" style="display: none">
+            <div class="container-imagem-nome">
                 <p>image_projeto.png</p>
                 <img src="./img/close.svg">
             </div>
@@ -68,23 +68,23 @@
                     <input type="text" id="nome" name="nome" required>
                 </div>
                 <div>
-                    <label for="descricao">Descrição</label>
-                    <textarea name="descricao" id="descricao" required></textarea>
+                    <label for="description">Descrição</label>
+                    <textarea name="description" id="description" required></textarea>
                 </div>
                 <div>
                     <label for="input-tags">Tags</label>
                     <input type="text" id="input-tags" name="categoria">
                 </div>
-                <ul class="lista-tags" id="lista-tags">
+                <ul class="lista-tags" id="list-tags">
                 </ul>
                 <div class="container-botoes">
-                    <button type="button" class="botao-descartar">Descartar</button>
-                    <button type="button" class="botao-publicar">Publicar</button>
+                    <button type="button" class="discard-button">Descartar</button>
+                    <button type="button" class="publish-button">Publicar</button>
                 </div>
             </form>
         </div>
     </main>
-    <script src="./index.js"></script>
+    <script type="module" src="./src/main.js"></script>
 </body>
 
 </html>
