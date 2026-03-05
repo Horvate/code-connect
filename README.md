@@ -5,6 +5,13 @@ Aplicação front-end para publicação de projetos, permitindo cadastro de nome
 Este projeto foi originalmente desenvolvido durante curso da Alura e posteriormente refatorado com foco em arquitetura, organização de código e boas práticas de desenvolvimento front-end.
 
 
+## 🔗 Demonstração
+
+A aplicação está disponível em:
+
+https://code-connect-ruddy.vercel.app/
+
+
 ## 📸 Preview
 
 Interface principal da aplicação:
