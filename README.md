@@ -112,7 +112,7 @@ code-connect/
 ## ▶️ Como Executar
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Horvate/code-connect
 
 2. Abra o arquivo `index.html` no navegador.
 
@@ -124,6 +124,7 @@ code-connect/
 - Melhorar responsividade para dispositivos móveis
 - Implementar persistência de dados
 - Adicionar feedback visual de loading
+- Criar cobertura de testes automatizados
 
 ---
 
