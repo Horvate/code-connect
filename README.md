@@ -4,7 +4,6 @@ Aplicação front-end para publicação de projetos, permitindo cadastro de nome
 
 Este projeto foi originalmente desenvolvido durante curso da Alura e posteriormente refatorado com foco em arquitetura, organização de código e boas práticas de desenvolvimento front-end.
 
----
 
 ## 📸 Preview
 
@@ -12,7 +11,6 @@ Interface principal da aplicação:
 
 ![Preview do Projeto](./img/preview.gif)
 
----
 
 ## 📚 Contexto
 
@@ -29,7 +27,6 @@ Após a conclusão do curso, o código foi completamente refatorado com foco em:
 
 O objetivo da refatoração foi aproximar o projeto de uma estrutura utilizada em aplicações reais.
 
----
 
 ## 🏗 Arquitetura
 
@@ -43,7 +40,6 @@ O código, que inicialmente era monolítico, foi reestruturado utilizando ES Mod
 
 A refatoração teve como objetivo tornar o projeto mais escalável, legível e alinhado com padrões utilizados em aplicações reais.
 
----
 
 ## 🧠 Conceitos Aplicados
 
@@ -56,7 +52,6 @@ Durante a refatoração do projeto, foram aplicados os seguintes conceitos:
 - **Manipulação Estruturada de DOM**
 - **Organização Escalável de Projeto Front-end**
 
----
 
 ## 🚀 Funcionalidades
 
@@ -66,7 +61,6 @@ Durante a refatoração do projeto, foram aplicados os seguintes conceitos:
 - Simulação assíncrona de publicação
 - Feedback de sucesso ou erro ao publicar
 
----
 
 ## 🛠 Tecnologias
 
@@ -74,7 +68,6 @@ Durante a refatoração do projeto, foram aplicados os seguintes conceitos:
 - CSS3
 - JavaScript (ES Modules)
 
---- 
 
 ## 📁 Estrutura do Projeto
 
@@ -107,7 +100,6 @@ code-connect/
 ├── style.css
 └── README.md
 
----
 
 ## ▶️ Como Executar
 
@@ -116,7 +108,6 @@ code-connect/
 
 2. Abra o arquivo `index.html` no navegador.
 
----
 
 ## 📈 Melhorias Futuras
 
@@ -126,7 +117,6 @@ code-connect/
 - Adicionar feedback visual de loading
 - Criar cobertura de testes automatizados
 
----
 
 ## 🔄 Processo de Refatoração
 
@@ -141,7 +131,7 @@ Principais melhorias aplicadas:
 - Padronização da nomenclatura para inglês (variáveis, funções e parâmetros)
 - Organização em camadas (controllers, dom, events, modules e services)
 
----
+## 👨‍💻 Desenvolvido por Eduardo Horvate
 
 
 
