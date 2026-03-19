@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-# Code Connect
-
-Aplicação front-end para publicação de projetos, permitindo cadastro de nome, descrição, tags e upload de imagem.
-
-Este projeto foi originalmente desenvolvido durante curso da Alura e posteriormente refatorado com foco em arquitetura, organização de código e boas práticas de desenvolvimento front-end.
-
-
-## 🔗 Demonstração
-
-A aplicação está disponível em:
-
-https://code-connect-ruddy.vercel.app/
-
-=======
 # 💻🔗 Code Connect
 
 Este projeto foi originalmente desenvolvido durante curso da Alura e posteriormente refatorado com foco em arquitetura, organização de código e boas práticas de desenvolvimento front-end.
@@ -32,7 +17,6 @@ Aplicação front-end para publicação de projetos, permitindo cadastro de nome
 - Feedback de sucesso ou erro ao publicar
 
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## 📸 Preview
 
@@ -40,8 +24,6 @@ Interface principal da aplicação:
 
 ![Preview do Projeto](./img/preview.gif)
 
-<<<<<<< HEAD
-=======
 ---
 
 ## 🚀 Deploy
@@ -69,7 +51,6 @@ https://code-connect-ruddy.vercel.app/
 - Adicionar feedback visual de loading
 
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## 📚 Contexto
 
@@ -86,10 +67,7 @@ Após a conclusão do curso, o código foi completamente refatorado com foco em:
 
 O objetivo da refatoração foi aproximar o projeto de uma estrutura utilizada em aplicações reais.
 
-<<<<<<< HEAD
-=======
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## 🏗 Arquitetura
 
@@ -103,10 +81,7 @@ O código, que inicialmente era monolítico, foi reestruturado utilizando ES Mod
 
 A refatoração teve como objetivo tornar o projeto mais escalável, legível e alinhado com padrões utilizados em aplicações reais.
 
-<<<<<<< HEAD
-=======
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## 🧠 Conceitos Aplicados
 
@@ -119,7 +94,7 @@ Durante a refatoração do projeto, foram aplicados os seguintes conceitos:
 - **Manipulação Estruturada de DOM**
 - **Organização Escalável de Projeto Front-end**
 
-<<<<<<< HEAD
+---
 
 ## 🚀 Funcionalidades
 
@@ -136,9 +111,7 @@ Durante a refatoração do projeto, foram aplicados os seguintes conceitos:
 - CSS3
 - JavaScript (ES Modules)
 
-=======
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## 📁 Estrutura do Projeto
 
@@ -171,19 +144,13 @@ code-connect/
 ├── style.css
 └── README.md
 
-<<<<<<< HEAD
-=======
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## ▶️ Como Executar
 
-1. Clone o repositório:
-<<<<<<< HEAD
-   git clone https://github.com/Horvate/code-connect
+1. Clone o repositório: git clone https://github.com/Horvate/code-connect
 
-2. Abra o arquivo `index.html` no navegador.
-
+2. Abra o arquivo index.htmlno navegador.
 
 ## 📈 Melhorias Futuras
 
@@ -193,13 +160,7 @@ code-connect/
 - Adicionar feedback visual de loading
 - Criar cobertura de testes automatizados
 
-=======
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-
-2. Abra o arquivo `index.html` no navegador.
-
 ---
->>>>>>> daab2ee (feat: readme update)
 
 ## 🔄 Processo de Refatoração
 
@@ -214,13 +175,9 @@ Principais melhorias aplicadas:
 - Padronização da nomenclatura para inglês (variáveis, funções e parâmetros)
 - Organização em camadas (controllers, dom, events, modules e services)
 
-<<<<<<< HEAD
 ## 👨‍💻 Desenvolvido por Eduardo Horvate
 
-
-=======
 ---
-
 
 ## 👨‍💻 Autor
 
@@ -230,6 +187,3 @@ Desenvolvido por **Eduardo Sousa Horvate**
 
 - LinkedIn: https://www.linkedin.com/in/eduardo-horvate/?skipRedirect=true
 - GitHub: https://github.com/Horvate
->>>>>>> daab2ee (feat: readme update)
-
-
