@@ -16,7 +16,7 @@ https://code-connect-ruddy.vercel.app/
 
 Interface principal da aplicação:
 
-![Preview do Projeto](./img/preview.gif)
+![Preview do Projeto](./img/code-connect-0.gif)
 
 
 ## 📚 Contexto
